@@ -1,0 +1,1 @@
+PPROF_PATH=$(which pprof) HEAPCHECK=normal cabal new-run gperftools-example
